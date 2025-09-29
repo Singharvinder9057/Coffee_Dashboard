@@ -9,26 +9,26 @@ With the included fields, you can track what products sell best, when peak hours
 
 Each row = one transaction
 
-Column Name	Description
-Transaction_Id	Unique identifier for each transaction.
-Transaction_Date	Date of the transaction (MM/DD/YYYY).
-Transaction_Time	Time of purchase (hh:mm:ss AM/PM).
-Store_Id	Numeric store identifier.
-Store_Location	Store branch/location (e.g., Astoria).
-Product_Id	Unique identifier for the product.
-Transaction_Qty	Quantity purchased in the transaction.
-Unit_Price	Price per unit of the product (coffee/tea item).
-Product_Category	Main product category (e.g., Coffee, Tea).
-Product_Type	Sub-category/type (e.g., Brewed Coffee, Espresso, Herbal Tea).
-Product_Detail	Specific drink (e.g., Peppermint, Latte, Americano).
-Size	Drink size (Small / Medium / Large).
-Total_Bill	Transaction amount (Qty × Unit_Price).
-Month Name	Month of purchase (e.g., April).
-Day Name	Day of the week (e.g., Monday).
-Hour	Hour of purchase (numeric, useful for peak-time analysis).
-Day Of Week	Numeric day of week (1 = Monday … 7 = Sunday).
-Month	Numeric month (1 = Jan … 12 = Dec).
-Season	Season of the year (Winter, Spring, Summer, Fall).
+Column Name	Description <br>
+Transaction_Id	Unique identifier for each transaction. <br>
+Transaction_Date	Date of the transaction (MM/DD/YYYY). <br>
+Transaction_Time	Time of purchase (hh:mm:ss AM/PM). <br>
+Store_Id	Numeric store identifier. <br>
+Store_Location	Store branch/location (e.g., Astoria). <br>
+Product_Id	Unique identifier for the product. <br>
+Transaction_Qty	Quantity purchased in the transaction. <br>
+Unit_Price	Price per unit of the product (coffee/tea item). <br>
+Product_Category	Main product category (e.g., Coffee, Tea). <br>
+Product_Type	Sub-category/type (e.g., Brewed Coffee, Espresso, Herbal Tea). <br>
+Product_Detail	Specific drink (e.g., Peppermint, Latte, Americano). <br>
+Size	Drink size (Small / Medium / Large). <br>
+Total_Bill	Transaction amount (Qty × Unit_Price). <br>
+Month Name	Month of purchase (e.g., April). <br>
+Day Name	Day of the week (e.g., Monday). <br>
+Hour	Hour of purchase (numeric, useful for peak-time analysis). <br>
+Day Of Week	Numeric day of week (1 = Monday … 7 = Sunday). <br>
+Month	Numeric month (1 = Jan … 12 = Dec). <br>
+Season	Season of the year (Winter, Spring, Summer, Fall). <br>
 
 # 🎯 Dashboard Ideas in Excel
 
